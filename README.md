@@ -11,7 +11,7 @@ Voltaj değerine göre metinin arka planındaki renkler değişiyordur.
 
 ## Daha farklı projeler için [instagram adresimi](https://www.instagram.com/bluegrays.ino/) takip edebilirsiniz. 
 <p align="center">
-<a href="https://www.instagram.com/bluegrays.ino/" target="_blank">
+<a href="https://www.instagram.com/bluegrays.ino/">
 <img src="Logo.png" width="200"/>
 </a>
 </p>
