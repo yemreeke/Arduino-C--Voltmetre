@@ -10,4 +10,8 @@ Voltaj değerine göre metinin arka planındaki renkler değişiyordur.
 - Diğer aralıklarda ise Beyaz renk oluyordur.  
 
 ## Daha farklı projeler için [instagram adresimi](https://www.instagram.com/bluegrays.ino/) takip edebilirsiniz. 
-
+<p align="center">
+<a href="https://www.instagram.com/bluegrays.ino/">
+<img src="Logo.png" width="200"/>
+</a>
+</p>
