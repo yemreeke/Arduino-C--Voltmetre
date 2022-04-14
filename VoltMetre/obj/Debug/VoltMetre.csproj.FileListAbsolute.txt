@@ -1,0 +1,21 @@
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\bin\Debug\VoltMetre.exe.config
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\bin\Debug\VoltMetre.exe
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\bin\Debug\VoltMetre.pdb
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.Form1.resources
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.Properties.Resources.resources
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.exe
+C:\Users\Emre\Desktop\VoltMetre\VoltMetre\obj\Debug\VoltMetre.pdb
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\bin\Debug\VoltMetre.exe.config
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\bin\Debug\VoltMetre.exe
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\bin\Debug\VoltMetre.pdb
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.Form1.resources
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.Properties.Resources.resources
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.exe
+C:\Users\Emre\OneDrive\BlueGrays Projeler\Volt Olcer (Github Eklenecek)\VoltMetre\VoltMetre\obj\Debug\VoltMetre.pdb
